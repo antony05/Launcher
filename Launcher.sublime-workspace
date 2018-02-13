@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "beep",
+			"settings":
+			{
+				"buffer_size": 9920,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Form1.resx",
+			"settings":
+			{
+				"buffer_size": 40435,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher",
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher/My",
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher/My/Resources"
+	],
+	"file_history":
+	[
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher/AssemblyInfo.cs",
+		"/C/Users/anton/Downloads/Launcher/Config.cMu",
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher/Form2.cs",
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher/My/Resources/Resources.cs",
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher/My/MyProject.cs",
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher/My/MyComputer.cs",
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher/My/MyApplication.cs",
+		"/C/Users/anton/Downloads/Launcher(1)/Launcher/Launcher/Launcher.csproj",
+		"/C/Users/anton/Downloads/Launcher Autoupdate - MuOnline Version - TUServerMU.com.ve/launcher.ag",
+		"/C/Users/anton/Downloads/SourceCode[Launcher]/pROYECT/version.ver",
+		"/C/Users/anton/Downloads/AionServerLauncher_V1.5.5/Configuration.xml",
+		"/C/Users/anton/Downloads/Basic Auto Update Launcher/Client/neoncube.file",
+		"/C/Users/anton/Downloads/muWlauncherLight/launcher/server.xml",
+		"/C/Users/anton/Downloads/muWlauncher/launcher/server.xml",
+		"/C/Users/anton/Downloads/Launcher Update - Servidores de Center Host SLA/Archivos/Web/ftp/Launcher/launcher.php",
+		"/C/Users/anton/Downloads/Launcher Update - Servidores de Center Host SLA/Archivos/Web/ftp/Launcher/function.php",
+		"/C/Users/anton/Downloads/Launcher Update - Servidores de Center Host SLA/Archivos/Web/ftp/Launcher/meio.php",
+		"/C/Users/anton/Desktop/ASDASD.txt",
+		"/D/OK/MuServer/Data/Lang/Eng/Message.txt",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/libs/Request.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/libs/sso.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/libs/UserSession.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/libs/View.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/app/etc/events.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/app/etc/config.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/app/controllers/AjaxController.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/app/controllers/DescargasController.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/app/controllers/FacebookController.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/app/controllers/ForoController.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/app/controllers/PanelController.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/app/controllers/RankingController.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/app/controllers/RegistroController.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/libs/Events.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/captcha.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/decode.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/index.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/libs/webAnarquiaCore.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/libs/events/EventTime.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/libs/ConnectServer.php",
+		"/C/Users/anton/Downloads/muanarquia-muanarquia-web-8ddd5a068e63/loginSSO.php",
+		"/C/Users/anton/Downloads/MuCore_v1.0.8/pages_modules/register.php",
+		"/C/Users/anton/Downloads/Web Toxico/Sub_Paginas/ranking.php",
+		"/C/Users/anton/Downloads/Ultimo Cliente/Zero Launcher v1.3 - TUServerMU.com.ve/Zero Launcher v1.3 - TUServerMU.com.ve/Hosting/Launcher/config.SQL.php",
+		"/C/Users/anton/Downloads/Ultimo Cliente/Zero Launcher v1.3 - TUServerMU.com.ve/Zero Launcher v1.3 - TUServerMU.com.ve/Hosting/Launcher/index.php",
+		"/C/Users/anton/Downloads/Ultimo Cliente/Zero Launcher v1.3 - TUServerMU.com.ve/Zero Launcher v1.3 - TUServerMU.com.ve/Hosting/Launcher/includes/captcha.php",
+		"/C/Users/anton/Downloads/MuCore_v1.0.8/pages_modules/user_cp/reset_stats.php",
+		"/C/Users/anton/AppData/Local/Temp/Temp1_MUCORE-V-2.0.1.zip/engine/core.php",
+		"/C/Users/anton/AppData/Local/Temp/Temp1_MUCORE-V-2.0.1.zip/engine/recaptchalib.php",
+		"/C/Users/anton/AppData/Local/Temp/Temp1_MUCORE-V-2.0.1.zip/pages_modules/register.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"' "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "beep",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Form1.resx",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 40435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "Launcher.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Launcher.sln"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
